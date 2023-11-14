@@ -1,0 +1,30 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    color: aqua;
+}
+.first-paragraph {
+    color: darkgoldenrod;
+}
+h2 {
+    color: coral;
+}
+p {
+color: chartreuse;
+}
+.first-item {
+    color: darkgrey;
+}
+.second-item {
+    color: floralwhite;
+}
+.third-item {
+    color: lawngreen;
+}
+.fourth-item {
+    color: black;
+}
+.fifth-item {
+    color: lightgreen;
+}
